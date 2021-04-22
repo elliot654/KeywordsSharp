@@ -1,0 +1,10 @@
+C:\Users\elliot\source\repos\keyword\keyword\bin\Debug\keyword.exe.config
+C:\Users\elliot\source\repos\keyword\keyword\bin\Debug\keyword.exe
+C:\Users\elliot\source\repos\keyword\keyword\bin\Debug\keyword.pdb
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.csprojAssemblyReference.cache
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.Form1.resources
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.Properties.Resources.resources
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.csproj.GenerateResource.cache
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.csproj.CoreCompileInputs.cache
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.exe
+C:\Users\elliot\source\repos\keyword\keyword\obj\Debug\keyword.pdb
